@@ -1,5 +1,5 @@
 - Working on [StickMC](https://discord.stickmc.tk/)
-- Test-Supporter on [BattleOase](https://discord.battleoase.net)
+- Moderator on [BattleUnity](https://discord.gg/g89ZdNPDqX)
 - PMMP-Supporter on [LordArrow Discord](https://discord.gg/t45dtkqUdm)
 - Test-Developer on [MiezeMC](https://discord.gg/aWSDjCR4FQ)
 
