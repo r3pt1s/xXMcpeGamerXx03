@@ -1,6 +1,6 @@
 - Working on [StickMC](https://discord.stickmc.tk/)
-- Moderator on [BattleUnity](https://discord.gg/g89ZdNPDqX)
-- PMMP-Supporter on [LordArrow Discord](https://discord.gg/t45dtkqUdm)
+- Admin on [BattleUnity](https://discord.gg/g89ZdNPDqX)
+- Admin on [LordArrow Discord](https://discord.gg/t45dtkqUdm)
 - Test-Developer on [MiezeMC](https://discord.gg/aWSDjCR4FQ)
 
 [![Discord](https://discord.c99.nl/widget/theme-1/468866708732379147.png)](#)
