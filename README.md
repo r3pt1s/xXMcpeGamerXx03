@@ -1,5 +1,4 @@
 - Working on [StickMC](https://discord.stickmc.tk/)
-- Admin on [WhitePlugins](https://discord.gg/g89ZdNPDqX)
 - Admin on [LordArrow Discord](https://discord.gg/t45dtkqUdm)
 - Test-Developer on [MiezeMC](https://discord.gg/aWSDjCR4FQ)
 
