@@ -1,6 +1,7 @@
 - Working on [StickMC](https://discord.stickmc.de/)
 - Admin on [LordArrow Discord](https://discord.gg/t45dtkqUdm)
 - Test-Developer on [MiezeMC](https://discord.gg/aWSDjCR4FQ)
+- Head-Helper on [StimoMC](https://stimomc.com/go/discord/)
 
 [![Discord](https://discord.c99.nl/widget/theme-1/468866708732379147.png)](#)
 
